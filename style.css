@@ -1,0 +1,52 @@
+.brand-logo {
+    margin-left: 15px;
+}
+
+nav {
+    background-color: black;
+}
+
+.navbar-brand {
+    font-size: 35px;
+}
+
+.row {
+    align-items:center;
+}
+
+body {
+    background-color: #F3F7F7;
+}
+
+.logo {
+    padding: 0 5px;
+    margin: 0 5px;
+}
+
+footer {
+    background-color: black;
+    height: 75px;
+}
+
+.btn-gold {
+    background-color: #D1A072;
+}
+
+img {
+    max-width: 100%;
+    max-width: 100%
+}
+
+.profile-pic {
+    border-radius: 50%;
+}
+
+.prof {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contact-div {
+    background-color: #D1A072;
+}
